@@ -1,4 +1,11 @@
 {
   "name": "Landguard1",
-  "displayName": "Landguard1"
+  "displayName": "Landguard1",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "44c64a6e-1df3-46cd-88f4-6b8867b8ff03"
+      }
+    }
+  }
 }
